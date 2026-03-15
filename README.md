@@ -1,6 +1,6 @@
-# Node.js Dispatch Hub
+# Node.js livekit sdk
 
-A structured, SOLID-based Node.js application for managing real-time call handoffs using **Socket.io** and **LiveKit**.
+A structured, based Node.js application for managing real-time call handoffs using **Socket.io** and **LiveKit**.
 
 ## 🚀 Getting Started
 
