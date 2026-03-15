@@ -37,7 +37,7 @@ The server will be running at `http://localhost:3005`.
 
 ---
 
-## 🏗️ Project Architecture (SOLID/OOP)
+## 🏗️ Project Architecture
 
 The project is organized into modular components within the `src/` directory:
 
